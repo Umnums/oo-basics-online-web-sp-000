@@ -5,4 +5,9 @@ class Shoe
   end
 
   attr_accessor :color, :size, :brand, :material, :condition
+
+  def cobble
+    puts "shoe"
+    self.condition = "new"
 end
+
