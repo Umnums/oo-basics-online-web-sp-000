@@ -10,4 +10,3 @@ class Shoe
     puts "shoe"
     self.condition = "new"
 end
-
