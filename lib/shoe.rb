@@ -4,5 +4,5 @@ class shoe
     @brand = brand
   end
 
-  attr_accessor brand: 
+  attr_accessor brand:
 end
